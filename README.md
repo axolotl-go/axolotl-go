@@ -1,13 +1,12 @@
 <div align="center">
-  ![image](https://github.com/axolotl-go/axolotl-go/assets/82607496/eb9889db-ef39-4e06-8519-951012f3af1d)
+  <img height="200" src="https://github.com/axolotl-go/axolotl-go/assets/82607496/eb9889db-ef39-4e06-8519-951012f3af1d"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=axolotl-go&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axolotl-go&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<h4 align="left">About me<br>Hola, soy Javier (Axolotl). Soy un estudiante de laUniversidad Tecnológica de Torreón (UTT) y un apasionado desarrollador full stack. Me encanta trabajar con lenguajes como Go, JavaScript, TypeScript y C#. Siempre estoy buscando aprender y dominar nuevas tecnologías para mejorar mis habilidades y estar al día con las tendencias del desarrollo.<br><br>Tengo experiencia en desarrollo tanto en equipo como en solitario, y he trabajado en varios proyectos que me han permitido fortalecer mis capacidades técnicas y de colaboración. Estoy particularmente interesado en el desarrollo de aplicaciones web y móviles, y disfruto enfrentar desafíos complejos y encontrar soluciones innovadoras.</h4>
 
 ###
 
@@ -37,6 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -55,6 +58,14 @@
   <a href="https://www.linkedin.com/in/javier-cabrales-1ba86b241/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=axolotl-go&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=axolotl-go&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
