@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h4 align="left">About me<br>Hola, soy Javier (Axolotl). Soy un estudiante de laUniversidad Tecnológica de Torreón (UTT) y un apasionado desarrollador full stack. Me encanta trabajar con lenguajes como Go, JavaScript, TypeScript y C#. Siempre estoy buscando aprender y dominar nuevas tecnologías para mejorar mis habilidades y estar al día con las tendencias del desarrollo.<br><br>Tengo experiencia en desarrollo tanto en equipo como en solitario, y he trabajado en varios proyectos que me han permitido fortalecer mis capacidades técnicas y de colaboración. Estoy particularmente interesado en el desarrollo de aplicaciones web y móviles, y disfruto enfrentar desafíos complejos y encontrar soluciones innovadoras.</h4>
+<h4 align="left">About me<br>Hola, soy Javier (Axolotl). Soy desarrollador full stack. Me encanta trabajar con lenguajes como Go, JavaScript, TypeScript y C#. Siempre estoy buscando aprender y dominar nuevas tecnologías para mejorar mis habilidades y estar al día con las tendencias del desarrollo.<br><br>Tengo experiencia en desarrollo tanto en equipo como en solitario, y he trabajado en varios proyectos que me han permitido fortalecer mis capacidades técnicas y de colaboración. Estoy particularmente interesado en el desarrollo de aplicaciones web y móviles, y disfruto enfrentar desafíos complejos y encontrar soluciones innovadoras.</h4>
 
 ###
 
