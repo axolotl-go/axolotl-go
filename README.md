@@ -7,10 +7,7 @@
 <br clear="both">
 
 <h4 align="left">
-  Desarrollador Full-Stack con experiencia en Go, Node.js, TypeScript y PostgreSQL. Especializado en
-desarrollo de APIs, aplicaciones web escalables y optimización de rendimiento frontend con React y
-Next.js. He trabajado en equipos remotos internacionales y proyectos freelance, entregando soluciones
-modernas orientadas al usuario y al negocio.
+ Full-Stack Developer with experience in Go, Node.js, TypeScript, and PostgreSQL. Specialized in API development, scalable web applications, and frontend performance optimization with React and Next.js. Experience working on international remote teams and freelance projects, delivering modern, user- and business-oriented solutions.
 </h4>
 
 ###
