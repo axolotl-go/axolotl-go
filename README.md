@@ -6,7 +6,12 @@
 
 <br clear="both">
 
-<h4 align="left">About me<br>Hola, soy Javier (Axolotl). Soy desarrollador full stack. Me encanta trabajar con lenguajes como Go, JavaScript, TypeScript y C#. Siempre estoy buscando aprender y dominar nuevas tecnologías para mejorar mis habilidades y estar al día con las tendencias del desarrollo.<br><br>Tengo experiencia en desarrollo tanto en equipo como en solitario, y he trabajado en varios proyectos que me han permitido fortalecer mis capacidades técnicas y de colaboración. Estoy particularmente interesado en el desarrollo de aplicaciones web y móviles, y disfruto enfrentar desafíos complejos y encontrar soluciones innovadoras.</h4>
+<h4 align="left">
+  Desarrollador Full-Stack con experiencia en Go, Node.js, TypeScript y PostgreSQL. Especializado en
+desarrollo de APIs, aplicaciones web escalables y optimización de rendimiento frontend con React y
+Next.js. He trabajado en equipos remotos internacionales y proyectos freelance, entregando soluciones
+modernas orientadas al usuario y al negocio.
+</h4>
 
 ###
 
